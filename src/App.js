@@ -1,24 +1,36 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Nevbar from './navbar/Nevbar';
+import Header from './header/Header';
+import Mainbody from './main body/Main body';
+import CardSection from './caedSection/CardSection';
+import CardComonent from './cardComponent/CardComponent';
+import Section4 from './section4/Section4';
+import Section5 from './section5/Section5';
+import Section6 from './section5.2/section5.2';
+import Articles from './articles/Articles';
+import Footer from './footer/Footer';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<div> 
+<Nevbar/>
+ <Header/>
+ <Mainbody/>
+ <CardSection/>
+ <CardComonent/>
+ <Section4/>
+ <Section5/>
+ <Section6/>
+ <Articles/>
+ < Footer/>
+
+ 
+
+</div>
+
   );
 }
 
