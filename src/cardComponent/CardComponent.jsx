@@ -1,4 +1,4 @@
-import React from "react"
+
 import reactangular2 from "../images/Rectangle 5.svg"
 import arrow from "../images/image 786.svg"
 
@@ -22,8 +22,8 @@ const CardComonent = () => {
                         <h4> <u>See More </u></h4>
                      </div>
                     </div> 
-                <div class="col-md-5 ">
-                <div><img height="500px" width="530px" src={reactangular2} class="img-fluid"  alt=" image 2" /></div> 
+                <div class="col-md-5 ps-0 ">
+                <div><img   src={reactangular2} class="img-fluid"  alt=" image 2" /></div> 
                 </div>
 
             </div>

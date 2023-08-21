@@ -7,7 +7,7 @@
     background-color: rgba(255, 241, 232, 1);
 }
 .nav-bg{
-    background-color: rgba(202, 239, 70, 1);
+    background-color: rgba(202, 239, 70, 1) !important;
 }
 .mainBody-bg{
     background-color: rgba(10, 10, 10, 1);
@@ -24,3 +24,5 @@
 .white-bg{
     background-color: #FFF1E8;
 }
+
+

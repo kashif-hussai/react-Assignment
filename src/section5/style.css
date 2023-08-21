@@ -1,0 +1,10 @@
+.bg-col{
+    background-color: #FFF1E8;
+}
+.bg-card{
+    background-color:white;
+    border: 2px black solid;
+}
+.btn-color{
+    background-color: rgba(202, 239, 70, 1);
+}

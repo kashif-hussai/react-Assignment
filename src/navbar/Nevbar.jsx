@@ -9,7 +9,7 @@ const Nevbar = () => {
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-      <ul class="navbar-nav mx-auto  mb-lg-0 ">
+      <ul class="navbar-nav mx-auto gap-3 mb-lg-0 ">
         <li className="nav-item">About</li>
         <li className="nav-item">Pricing</li>
         <li className="nav-item">Blog</li>

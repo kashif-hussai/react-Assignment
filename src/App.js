@@ -23,7 +23,6 @@ function App() {
  <CardComonent/>
  <Section4/>
  <Section5/>
- <Section6/>
  <Articles/>
  < Footer/>
 

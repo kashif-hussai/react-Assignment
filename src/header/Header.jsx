@@ -1,4 +1,4 @@
-import React from "react"
+
 import image2 from "../images/image 786.svg"
 import image3 from "../images/sideIcon.png"
 import imagecard from "../images/header-group.svg";
@@ -17,7 +17,7 @@ const Header = () => {
 
                   </div>
                 </div>
-                <div class="col-md-6 pt-5">
+                <div class="col-md-6 pt-5 ps-5">
                    <h1>
                    UX/UI assets <br /> for creators <br /> worldwide
                    </h1>
@@ -30,7 +30,7 @@ const Header = () => {
                      
                      <div>
                      <div class="mx -3 py-2">
-        <button type="button" class="btn btn-outline-secondary nav-bg ">join now</button>
+        <button type="button" class="btn btn-outline-secondary nav-bg text-black">join now</button>
       </div>
                      </div>
 

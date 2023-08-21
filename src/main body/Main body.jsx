@@ -1,5 +1,5 @@
-import React from "react"
-import icon from "../images/icon2.svg"
+
+
 const Mainbody = () => {
     return(
         <div class="mt-5 pt-5">
@@ -10,7 +10,7 @@ const Mainbody = () => {
             <div class="col-md-4 mainBody-bg py-4"> 
             <h3 class="pt-4 text-white"> Create beautifullayouts simply</h3>
             <div class="pt-4 text-center">
-            <button type="button" class="btn btn-outline-secondary nav-bg text-white ">join now</button>
+            <button type="button" class="btn btn-outline-secondary nav-bg text-black ">join now</button>
             </div>
             </div>
             <div class="col-md-4 pt-5 mx-5">

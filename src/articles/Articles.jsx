@@ -1,4 +1,4 @@
- import React from "react"
+ 
  import grilIcon from "../images/Image (1).svg"
  import grilIcon2 from "../images/Image (2).svg"
  import grilIcon3 from "../images/Image.svg"
