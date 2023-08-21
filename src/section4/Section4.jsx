@@ -1,4 +1,5 @@
  import React from "react"
+import icon1 from "../images/icon2.svg"
  import page from "../images/page.svg"
  import light from "../images/light.svg"
  import phone from "../images/phone.svg"

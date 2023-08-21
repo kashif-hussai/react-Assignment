@@ -53,7 +53,7 @@
                 </div>
                 </div>
                 <div className='col-md-4 position-relative'>
-                  <button class="position-absolute top-0 end-0  btn-light mt-2 me-3 btn-color " type="submit"> <b>Join For Free</b></button> <br />
+                  <button class="position-absolute top-0 end-0  btn-light mt-2 me-3  " type="submit"> <b>Join For Free</b></button> <br />
        
                 <div class=" mt-5 px-3 header-bg bg-card ">
                 <div class="pt-3 "><img src={starIcon} alt="" /></div>

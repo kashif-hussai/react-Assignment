@@ -7,9 +7,9 @@ import CardSection from './caedSection/CardSection';
 import CardComonent from './cardComponent/CardComponent';
 import Section4 from './section4/Section4';
 import Section5 from './section5/Section5';
-import Section6 from './section5.2/section5.2';
 import Articles from './articles/Articles';
 import Footer from './footer/Footer';
+
 
 
 
@@ -23,6 +23,7 @@ function App() {
  <CardComonent/>
  <Section4/>
  <Section5/>
+
  <Articles/>
  < Footer/>
 
